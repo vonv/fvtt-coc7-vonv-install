@@ -6,6 +6,7 @@
   "minimumCoreVersion" : "0.7.5",  
   "compatibleCoreVersion": "0.8.0",
   "author": "vonv",
+  "system": "CoC7",
   "url": "https://github.com/vonv/fvtt-coc7-vonv-install",
   "manifest": "https://raw.githubusercontent.com/vonv/fvtt-coc7-vonv-install/main/module.json",
   "download": "https://github.com/vonv/fvtt-coc7-vonv-install/archive/main.zip",
